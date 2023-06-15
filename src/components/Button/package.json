@@ -1,6 +1,6 @@
 {
-	"name": "@cubetest-componentlib/button",
-	"version": "0.0.4",
+	"name": "@dimasokta14/button",
+	"version": "0.0.2",
 	"publishConfig": {
 		"access": "public"
 	},
@@ -8,5 +8,5 @@
 		"type": "git",
 		"url": "https://github.com/dimasokta14/componentlib-mfe.git"
 	},
-	"gitHead": "001cd69986b9412c928e5948e4806c65bceaa2b4"
+	"gitHead": "5643304704eb74e4b895d088ccbf0d8bf5eeee17"
 }

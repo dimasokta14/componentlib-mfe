@@ -1,7 +1,11 @@
 {
-	"name": "@dimasokta/componentlib/button",
+	"name": "@dimasokta14/componentlib/button",
 	"version": "0.0.1",
 	"publishConfig": {
 		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dimasokta14/componentlib-mfe.git"
 	}
 }

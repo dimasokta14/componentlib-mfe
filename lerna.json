@@ -1,10 +1,12 @@
 {
-	"$schema": "node_modules/lerna/schemas/lerna-schema.json",
-	"version": "independent",
-	"packages": ["components/*"],
-	"command": {
-		"publish": {
-			"registry": "https://npm.pkg.github.com"
-		}
-	}
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "version": "independent",
+  "packages": [
+    "components/*"
+  ],
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com"
+    }
+  }
 }

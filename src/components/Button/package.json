@@ -1,5 +1,5 @@
 {
-	"name": "@dimasokta14/componentlib/button",
+	"name": "@cubetest-componentlib/button",
 	"version": "0.0.1",
 	"publishConfig": {
 		"access": "public"

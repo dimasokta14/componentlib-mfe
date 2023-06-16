@@ -1,6 +1,6 @@
 import React, { ReactNode } from "react";
 
-type ButtonProps = {
+export type ButtonProps = {
 	children: ReactNode;
 	onClick?: Function;
 };
